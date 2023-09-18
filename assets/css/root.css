@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  /* Pattern Color */
+  --pattern-color-1:#004225;
+  --pattern-color-1:#F5F5DC;
+  --pattern-color-1:#FFB000;
+  --pattern-color-1:#FFCF9D;
+
+  /* main color */
+  --main-color-1: #FFBB5C;
+  --main-color-2: #FF9B50;
+  --main-color-3: #E25E3E;
+  --main-color-4: #C63D2F;
+}
