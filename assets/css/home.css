@@ -23,3 +23,54 @@
   text-decoration:  none;
 } 
 /* End Header  */
+
+/* Carousel */
+.dropdown-menu.show{
+  background: linear-gradient(#FFBB5C,#FF9B50,#E25E3E,#C63D2F);
+}
+
+.navdropdown-item:hover{
+  background-color: #C63D2F;
+}
+
+/* End Carousel  */
+
+/*  Foooter */
+footer{
+  width: 100%;
+  align-items: center;
+  background: #E25E3E;
+  color: #FFF;
+  padding-bottom: 10px;
+}
+/* Social */
+
+.social{
+  width: 100%;
+  text-align: center;
+}
+
+.social svg{
+  width: 50px;
+  height: 50px;
+  margin: 0 40px;
+  color: #FF9A62;;
+
+}
+/* Slogan */
+.slogan{
+  font-size: 46px;
+  text-align: center;
+}
+
+.slogan span{
+  font-family: Arial ;
+  font-weight: bold;
+}
+
+/* Intro */
+.intro{
+  font-size: 20px;
+  text-align: center;
+}
+/* End Footer  */
