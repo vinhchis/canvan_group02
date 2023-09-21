@@ -1,0 +1,25 @@
+/* Header */
+
+.navbar{
+  width: 100%;
+  display: flex;
+  align-items:center;
+  justify-content: space-between;
+  background: linear-gradient(to right,#FFBB5C,#FF9B50,#E25E3E,#C63D2F);
+}
+
+
+.navbar li{
+  list-style-type: none ;
+}
+
+.navbar ul{
+  display: flex;
+  justify-content: space-evenly;
+  width: 80%;
+}
+
+.navbar li a{
+  text-decoration:  none;
+} 
+/* End Header  */
